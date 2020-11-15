@@ -1,4 +1,4 @@
-# Cmpt 1105 Python Writing And Reading File GUI
+# CMPT 1105 Python Writing And Reading File GUI
 
 ## Lab A
 Writing to a file.
